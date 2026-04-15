@@ -2,7 +2,7 @@
   "name": "aulas-de-bd_node_vscode",
   "version": "1.0.0",
   "description": "videos do youtube",
-  "types": "module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
